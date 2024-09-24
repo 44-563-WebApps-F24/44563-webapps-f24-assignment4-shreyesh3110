@@ -19,3 +19,17 @@ color:black;
 .oedipus{
     color: green;
 }
+
+table{
+    border: solid 3px;
+    border-collapse: collapse;
+}
+th, td{
+    border: solid 2px ;
+    text-align: center;
+    padding: 7px;
+}
+
+tr:nth-child(even){
+    background-color: #82e2f8;
+}
