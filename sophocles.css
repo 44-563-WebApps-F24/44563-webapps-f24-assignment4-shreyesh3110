@@ -1,0 +1,21 @@
+.speech{
+font-size: 16;
+font-family: Arial;
+color:black;
+}
+.direction{
+    font-size: 14;
+    font-family: Times New Roman;
+    color:black;
+    background-color: aqua;
+    }
+.direction:hover{
+    color:aqua;
+    background-color: black;
+}
+.cr{
+    color:blue
+}
+.oed{
+    color: green;
+}
