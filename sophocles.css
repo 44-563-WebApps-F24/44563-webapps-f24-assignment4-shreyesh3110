@@ -33,3 +33,17 @@ th, td{
 tr:nth-child(even){
     background-color: #82e2f8;
 }
+
+.oedipus:hover{
+text-shadow: 2px 2px 5px yellow;
+border: 2px solid darkblue; 
+border-radius: 5px; 
+padding: 5px; 
+}
+
+.chorus:hover{
+    text-shadow: 2px 2px 5px red;
+    border: 2px solid darkgreen; 
+    border-radius: 5px; 
+    padding: 5px; 
+    }
