@@ -47,3 +47,25 @@ padding: 5px;
     border-radius: 5px; 
     padding: 5px; 
     }
+
+    ul.navbar-horizontal {
+        /* remove these */
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        }
+    ul.navbar-horizontal li {
+        float:left; /* line up horizontally */
+        color:#000;
+        background-color:aqua
+        }
+     ul.navbar-horizontal a {
+        display:block;
+        padding:8px
+     }
+        /* on hover change the link color*/
+    ul.navbar-horizontal a:hover {
+        background-color: #555;
+        color:white;
+        }
+        
